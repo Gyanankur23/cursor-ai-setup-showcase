@@ -59,11 +59,12 @@ This project is licensed under the **MIT License** — feel free to reuse or ada
 
 ## About This Repo
 
-This Repository marks my first task of the project portfolio showcase as asked by 100Hires.
+This repository documents my first hands‑on setup with Cursor IDE and AI coding extensions as asked by 100Hires. It’s a quick showcase of how modern IDEs integrate AI tools seamlessly — from installation to workflow tweaks — all captured in one neat setup.
+
 
 ### Author
 
 Github:- (https://github/com/Gyanankur23)
 Linkedln:- (https://www.linkedin.com/in/gyanankur-baruah-797205338/)
 
-This repository documents my first hands‑on setup with Cursor IDE and AI coding extensions. It’s a quick showcase of how modern IDEs integrate AI tools seamlessly — from installation to workflow tweaks — all captured in one neat setup.
+Feel free to contribute, fork or star the repository.
