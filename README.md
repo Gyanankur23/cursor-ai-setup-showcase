@@ -1,11 +1,15 @@
+# 🚀 Cursor AI Setup Showcase<div align="center">
+
 # 🚀 Cursor AI Setup Showcase
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Gyanankur23/cursor-ai-setup-showcase?color=blue)
-![GitHub stars](https://img.shields.io/github/stars/Gyanankur23/cursor-ai-setup-showcase?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/Gyanankur23/cursor-ai-setup-showcase?color=green)
+![Repo Size](https://img.shields.io/badge/Repo%20Size-1.2MB-blue)
+![Stars](https://img.shields.io/badge/Stars-2-lightgrey?style=social)
+![Last Commit](https://img.shields.io/badge/Last%20Commit-Today-green)
 ![Made with Cursor](https://img.shields.io/badge/Made%20with-Cursor-ff69b4)
 ![Extensions](https://img.shields.io/badge/Extensions-Claude%20Code%20%7C%20Codex-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+
+</div>
 
 ---
 
