@@ -1,7 +1,7 @@
 # 🚀 Cursor AI Setup Showcase
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Gyanankur23/cursor-ai-setup-showcase?color=blue)
-![GitHub stars](https://img.shields.io/github/stars/Gyanankur23/cursor-ai-setup-showcase?style=social)
+![GitHub stars](https://[img.shields.io/github/stars/Gyanankur23/cursor-ai-setup-showcase?style=social](https://img.shields.io/github/stars/Gyanankur23/cursor-ai-setup-showcase?style=social))
 ![GitHub last commit](https://img.shields.io/github/last-commit/Gyanankur23/cursor-ai-setup-showcase?color=green)
 ![Made with Cursor](https://img.shields.io/badge/Made%20with-Cursor-ff69b4)
 ![Extensions](https://img.shields.io/badge/Extensions-Claude%20Code%20%7C%20Codex-orange)
