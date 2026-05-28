@@ -17,11 +17,10 @@
 ---
 
 ## 📸 Proof of Installation
-> Claude Code successfully integrated with Cursor IDE  
-> Codex extension active and visible in VS Code
+> Claude Code and Codex extensions integrated with Cursor IDE
 
-![Claude Code Screenshot](./images/claude-code.png)
-![Codex Screenshot](./images/codex.png)
+![Claude Code Screenshot](./images/Screenshot%202026-05-28%20220053.png)
+![Codex Screenshot](./images/Screenshot%202026-05-28%20220255.png)
 
 ---
 
@@ -53,3 +52,8 @@
 
 ## 💡 License
 This project is licensed under the **MIT License** — feel free to reuse or adapt this documentation for learning or demonstration purposes.
+
+---
+
+## ✨ About This Repo
+This repository documents my first hands‑on setup with Cursor IDE and AI coding extensions. It’s a quick showcase of how modern IDEs integrate AI tools seamlessly — from installation to workflow tweaks — all captured in one neat setup.
