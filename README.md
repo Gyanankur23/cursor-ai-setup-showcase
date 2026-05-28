@@ -1,5 +1,3 @@
-# 🚀 Cursor AI Setup Showcase<div align="center">
-
 # 🚀 Cursor AI Setup Showcase
 
 ![Repo Size](https://img.shields.io/badge/Repo%20Size-1.2MB-blue)
