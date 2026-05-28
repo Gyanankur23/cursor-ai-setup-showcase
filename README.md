@@ -15,7 +15,7 @@
 - **Cursor IDE**
 - **Claude Code extension** (installed successfully)
 - **Codex extension** (installed successfully)
-
+![Header](./images/Screenshot%202026-05-28%20231039.png)
 ---
 
 ## 📸 Proof of Installation
