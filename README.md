@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠 Tools Installed
+## Tools Installed
 - **Cursor IDE**
 - **Claude Code extension** (installed successfully)
 - **Codex extension** (installed successfully)
@@ -36,7 +36,7 @@
 
 ---
 
-## ⚡ Issues & Solutions
+## Issues & Solutions
 | Issue | Description | Solution |
 |-------|--------------|-----------|
 | **Extension sync delay** | Cursor took a while to detect Claude Code and Codex after installation. | Restarted Cursor IDE and VS Code; extensions synced correctly afterward. |
@@ -45,17 +45,25 @@
 
 ---
 
-## 🎯 Outcome
+## Outcome
 - Repository created and linked with Cursor IDE  
 - Extensions installed and verified visually  
 - README.md pushed to GitHub with badges and screenshots  
 
 ---
 
-## 💡 License
+##  License
 This project is licensed under the **MIT License** — feel free to reuse or adapt this documentation for learning or demonstration purposes.
 
 ---
 
-## ✨ About This Repo
+## About This Repo
+
+This Repository marks my first task of the project portfolio showcase as asked by 100Hires.
+
+### Author
+
+Github:- (https://github/com/Gyanankur23)
+Linkedln:- (https://www.linkedin.com/in/gyanankur-baruah-797205338/)
+
 This repository documents my first hands‑on setup with Cursor IDE and AI coding extensions. It’s a quick showcase of how modern IDEs integrate AI tools seamlessly — from installation to workflow tweaks — all captured in one neat setup.
